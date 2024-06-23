@@ -42,4 +42,4 @@ This project relies on the following technologies and libraries:
 
 4. **Get Wallet Balance:** Click the "Get Wallet Balance" button to check the balance of the currently connected wallet or the new account.
 
-
+BY PAVITHRAN
